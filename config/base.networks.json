@@ -1,0 +1,14 @@
+{
+  "base-mainnet": {
+    "name": "Base Mainnet",
+    "chainId": 8453,
+    "rpc": "https://mainnet.base.org",
+    "explorer": "https://basescan.org"
+  },
+  "base-sepolia": {
+    "name": "Base Sepolia",
+    "chainId": 84532,
+    "rpc": "https://sepolia.base.org",
+    "explorer": "https://sepolia.basescan.org"
+  }
+}
