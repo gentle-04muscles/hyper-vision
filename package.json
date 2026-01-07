@@ -1,0 +1,25 @@
+{
+  "__file": "package.json",
+  "name": "stellar-horizon",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "@coinbase/wallet-sdk": "latest",
+    "viem": "latest",
+    "axios": "latest",
+    "web3": "latest",
+    "ethers": "latest",
+
+    "base-node": "github:base/node",
+    "base-web": "github:base/web",
+    "base-docs": "github:base/docs",
+
+    "coinbase-agentkit": "github:coinbase/agentkit",
+    "coinbase-wallet-sdk": "github:coinbase/wallet-sdk",
+    "coinbase-x402": "github:coinbase/x402",
+    "base-smart-wallet": "github:base/smart-wallet",
+    "base-brand-kit": "github:base/brand-kit"
+  }
+}
